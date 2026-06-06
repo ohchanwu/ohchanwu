@@ -1,5 +1,7 @@
 # Chanwu (Tyler) Oh
 
+_[한국어로 보기 🇰🇷](README.ko.md)_
+
 Software developer based in Seongnam, South Korea. Self-taught since 2025.
 
 Currently looking for junior/entry-level software engineering roles in Korea.
